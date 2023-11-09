@@ -6,7 +6,7 @@ enough in its ability to record so much info., as we are inundated by the amount
 dpcamps and are inquiring about their lost relatives/acquaintances.
 
 We need to record dpcamp, arrival and departure date, displaced person's name (first, last), gender, dateofbirth, homeaddress(address, city, country, Zip).
-If the dp is married then he/she will have a different address then his/her parents.
+If the dp is married then he/she may have a different address then his/her parents.
 
 If the person is not alive anymore, then we also need to know when they died and in which cemetery they were buried in.
 
@@ -54,7 +54,7 @@ Reports:
 
 3) Show a list of the Gombos family. 
 
-4) Show a list of how many people on average are arriving to each dpcamp monthly.
+4) Show a list of how many people are arriving to each dpcamp monthly.
 
 5) Show a list of the number of camps each person went to. Also show which camps they went to.
 
