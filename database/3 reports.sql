@@ -8,6 +8,7 @@ from DpCamp d
 where d.DpLastName = 'Burstein'
 and d.DepartureDate is null
 and d.DpFirstName <> 'Leah'
+and d.DOB = '1930-09-08'
 -- 2) show a list of how many people are currently in each dp camp.
 select d.Camp, NumOfPeopleInCamp = count(*)
 from DpCamp d
