@@ -1,6 +1,7 @@
 
 /*
-Displaces Persons Camp supervisor: I supervise all the DPcamps and I try to keep a record of all dp's and their information.
+Displaces Persons Camp supervisor: We are currently post world war two and I would like to help people locate their lost relatives/acquaintances. 
+I supervise all the DPcamps and therefore need all the dp's info recorded so that the process can be smooth and quick.
 The purpose of this record is to help people locate their lost relatives/acquaintances. Unfortunately, our system is not efficient 
 enough in its ability to record so much info., as we are inundated by the amount of people that are arriving daily to the 
 dpcamps and are inquiring about their lost relatives/acquaintances.
@@ -17,7 +18,8 @@ If the parent's aren't living in the same house then they're addresses will diff
 
 For the purpose of locating extended family we need to record MaternalGrandmotherFirstname, MaternalGrandmotherLastname, MaternalGrandfatherFirstname,
 MaternalGrandfatherLastname, MaternalGrandmotherTown, MaternalGrandfatherTown, PaternalGrandmotherFirstname, PaternalGrandmotherLastname, 
-PaternalGrandfatherFirstname, PaternalGrandfatherLastname, PaternalGrandmotherTown, PaternalGrandfatherTown. If the grandparent's aren't living in the same house then they're addresses will differ.
+PaternalGrandfatherFirstname, PaternalGrandfatherLastname, PaternalGrandmotherTown, PaternalGrandfatherTown. If the grandparent's aren't living in the same 
+house then they're addresses will differ.
 
 
 Once a dp is registered he/she gets a registrationnumber. This helps us locate people quickly. (The registrationnumber is a concatination of the person's
