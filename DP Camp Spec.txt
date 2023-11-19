@@ -24,7 +24,7 @@ age 31-40 = bunk #4
 age 41-50 = bunk #5
 age 51-60 = bunk #6
 age 61+ = bunk #7
- 
+  
 Questions:
 Q: Can 1 person be in a few different camps?
 A: Yes, but 1 person surely can't be in a few camps at once. However, a person can leave a camp and arrive at a different camp on the same day.
